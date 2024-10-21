@@ -1,1 +1,1 @@
-# applehealthclassifier
+# appleclassifier
